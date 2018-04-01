@@ -9,11 +9,6 @@ Created on Sat Mar 31 23:41:37 2018
 Gets to 99.25% test accuracy after 12 epochs
 
 '''
-
-
-
-
-
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
